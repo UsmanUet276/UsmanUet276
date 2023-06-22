@@ -1,4 +1,4 @@
-![image](https://github.com/UsmanUet276/UsmanUet276/assets/99407553/edd52bec-e963-4fcd-b6ee-4b9d3fcc7422)![image](https://github.com/UsmanUet276/UsmanUet276/assets/99407553/68881200-7b2d-40dc-bea4-15e7046bd150)<h1 align="center">Hi 👋, I'm Muhammad Usman Bin Farid</h1>
+<h1 align="center">Hi 👋, I'm Muhammad Usman Bin Farid</h1>
 <h3 align="center">👋 Welcome to my Github account! 🌟 I'm a web developer 🖥️, problem solver 🧩, and enthusiastic educator 🎓. Join me on this caffeinated journey ☕ as I share my knowledge and expertise to help others conquer the world of web development! Let's build amazing things together! 🚀🌐</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=usmanuet276" alt="usmanuet276" /></a> </p>
